@@ -77,9 +77,9 @@ Crenova-Crenova, Crenova-Konka, Konka-Konka, Konka-Crenova, Coship-Coship.
 | Комбо 100 (АТВ) МЕ |	42 руб/мес	| 100/100	| 200/200	| 49 |
 | Комбо Скорость света (ЦТВ)	| 64 руб/мес	| 200/20	| 200/20	| 177 |
 | Комбо Скорость света (ЦТВ) МЕ | 	64 руб/мес	| 200/200	| 200/200	| 177 |
-| COSMOS Box 1	| 28 руб/мес	| 50/20	| -	| OTT | (Online) |
-| COSMOS Box 2	| 38 руб/мес	| 100/20	| -	| OTT | (Online+Megogo) |
-| COSMOS Box 3	| 48 руб/мес	| 200/20	| -	| OTT | (Online+Megogo) |
+| COSMOS Box 1	| 28 руб/мес	| 50/20	| -	| OTT (Online) |
+| COSMOS Box 2	| 38 руб/мес	| 100/20	| -	| OTT (Online+Megogo) |
+| COSMOS Box 3	| 48 руб/мес	| 200/20	| -	| OTT (Online+Megogo) |
 | COSMOS Box 1 (ME)	| 28 руб/мес	| 50/50 |	-	| OTT (Online) |
 | COSMOS Box 2  (ME)	| 38 руб/мес	| 100/100 |	-	| OTT (Online+Megogo) |
 | COSMOS Box 3  (ME)	| 48 руб/мес	| 200/200	| -	| OTT (Online+Megogo) |
