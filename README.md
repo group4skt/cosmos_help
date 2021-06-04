@@ -1,7 +1,7 @@
 
 - Website: https://www.help.github.io
 - Forums: [HashiCorp Discuss](https://www.help.github.io)
-- Documentation: [https://www.terraform.io/docs/](https://www.help.github.io)
+- Documentation: [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
 
 
 <img alt="Terraform" src="Комбо.png" width="600px">
