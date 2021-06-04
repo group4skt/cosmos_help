@@ -5,7 +5,7 @@
 Documentation
 -------------------------------
 Documentation is available on the [Terraform website](http://www.terraform.io):
-  - <a href="Pravila.pdf" >Модемы пропись</a>
+  - <a href="READMI2.md" >Модемы пропись</a>
   - [Docs](https://www.terraform.io/docs/index.html)
  - <a href="Pravila.pdf" >Правила замены оборудования</a>
   
