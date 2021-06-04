@@ -2,8 +2,7 @@
 - Website: https://www.help.github.io
 - Forums: [HashiCorp Discuss](https://discuss.hashicorp.com/c/terraform-core)
 - Documentation: [https://www.terraform.io/docs/](https://www.terraform.io/docs/)
-- Tutorials: [HashiCorp's Learn Platform](https://learn.hashicorp.com/terraform)
-- Certification Exam: [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/#hashicorp-certified-terraform-associate)
+
 
 <img alt="Terraform" src="Комбо.png" width="600px">
 Усилители wi-fi сигнала предоставляется только на ТП КОМБО СКОРОСТЬ СВЕТА и
@@ -12,14 +11,17 @@
 СКОРОСТЬ СВЕТА.
 Повторные выезды по одной и той же проблеме (Пример:смена РЧК) платные.
 
-Старый роутер остается у абонента и он продолжает за него выплачивать (в случае,
-если он приобретен в рассрочку).
+Старый роутер остается у абонента и он продолжает за него выплачивать 
+(в случае,если он приобретен в рассрочку).
 
-Старый ЦПКТ/САМ остается у абонента и он продолжает за него выплачивать (в случае,
-если он приобретен в рассрочку).
+Старый ЦПКТ/САМ остается у абонента и он продолжает за него выплачивать
+(в случае,если он приобретен в рассрочку).
+
 Стоимость выезда по замене не вышедшего из строя оборудования (абонент просто
 захотел поменять): 8,00 руб + выезд в зону удаления.
+
 Выезды по замене вышедшего из строя оборудования бесплатные.
+
 В случае замены оборудования по гарантии (не прошло 12 мес. со дня продажи):
 Возможна замена только на оборудование с такой же стоимостью, т. е.
 Crenova-Crenova, Crenova-Konka, Konka-Konka, Konka-Crenova, Coship-Coship.
