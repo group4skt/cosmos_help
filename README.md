@@ -1,6 +1,6 @@
 
 - Website: https://www.help.github.io
-- Forums: [HashiCorp Discuss](https://www.help.github.io)
+- Правила замены оборудования: [HashiCorp Discuss](Правила замены c 01.04.2020.pdf)
 - Documentation: [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
 
 
