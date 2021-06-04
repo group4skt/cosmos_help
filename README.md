@@ -2,7 +2,7 @@
 - Website: https://www.help.github.io
 - Documentation: [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
 
-
+<a href="Правила замены c 01.04.2020.pdf" download>Браузер скачает </a>
  <img alt="Правила замены оборудования" src="/Правила замены c 01.04.2020.pdf " width="600px">
 
 - Усилители wi-fi сигнала предоставляется только на ТП КОМБО СКОРОСТЬ СВЕТА и
