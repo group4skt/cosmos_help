@@ -2,9 +2,13 @@
 - Website: https://www.help.github.io
 - Documentation: [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
 
-<a href="Pravila.pdf" >Правила замены оборудования</a>
-
-
+Documentation
+-------------------------------
+Documentation is available on the [Terraform website](http://www.terraform.io):
+  - [Intro](https://www.terraform.io/intro/index.html)
+  - [Docs](https://www.terraform.io/docs/index.html)
+ - <a href="Pravila.pdf" >Правила замены оборудования</a>
+  
 - Усилители wi-fi сигнала предоставляется только на ТП КОМБО СКОРОСТЬ СВЕТА и
 СКОРОСТЬ СВЕТА.
 - Роутер 1Gbit предоставляется на ТП КОМБО 3, КОМБО СКОРОСТЬ СВЕТА, 3-я КОСМИЧЕСКАЯ,
@@ -97,8 +101,4 @@ The key features of Terraform are:
 
 For more information, see the [introduction section](http://www.terraform.io/intro) of the Terraform website.
 
-Getting Started & Documentation
--------------------------------
-Documentation is available on the [Terraform website](http://www.terraform.io):
-  - [Intro](https://www.terraform.io/intro/index.html)
-  - [Docs](https://www.terraform.io/docs/index.html)
+
