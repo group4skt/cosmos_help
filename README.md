@@ -1,6 +1,5 @@
 # help.github.io
-Terraform
-=========
+
 
 - Website: https://www.terraform.io
 - Forums: [HashiCorp Discuss](https://discuss.hashicorp.com/c/terraform-core)
@@ -9,8 +8,27 @@ Terraform
 - Certification Exam: [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/#hashicorp-certified-terraform-associate)
 
 <img alt="Terraform" src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg" width="600px">
+Усилители wi-fi сигнала предоставляется только на ТП КОМБО СКОРОСТЬ СВЕТА и
+СКОРОСТЬ СВЕТА.
+Роутер 1Gbit предоставляется на ТП КОМБО 3, КОМБО СКОРОСТЬ СВЕТА, 3-я КОСМИЧЕСКАЯ,
+СКОРОСТЬ СВЕТА.
+Повторные выезды по одной и той же проблеме (Пример:смена РЧК) платные.
 
-Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
+Старый роутер остается у абонента и он продолжает за него выплачивать (в случае,
+если он приобретен в рассрочку).
+
+Старый ЦПКТ/САМ остается у абонента и он продолжает за него выплачивать (в случае,
+если он приобретен в рассрочку).
+Стоимость выезда по замене не вышедшего из строя оборудования (абонент просто
+захотел поменять): 8,00 руб + выезд в зону удаления.
+Выезды по замене вышедшего из строя оборудования бесплатные.
+В случае замены оборудования по гарантии (не прошло 12 мес. со дня продажи):
+Возможна замена только на оборудование с такой же стоимостью, т. е.
+Crenova-Crenova, Crenova-Konka, Konka-Konka, Konka-Crenova, Coship-Coship.
+В случае замены оборудования не на аналогичное по стоимости –
+индивидуально по звонку в техническую поддержку или абонентский отдел.
+
+
 
 The key features of Terraform are:
 
