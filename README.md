@@ -5,7 +5,7 @@
 - Tutorials: [HashiCorp's Learn Platform](https://learn.hashicorp.com/terraform)
 - Certification Exam: [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/#hashicorp-certified-terraform-associate)
 
-<img alt="Terraform" src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg" width="600px">
+<img alt="Terraform" src="Комбо.png" width="600px">
 Усилители wi-fi сигнала предоставляется только на ТП КОМБО СКОРОСТЬ СВЕТА и
 СКОРОСТЬ СВЕТА.
 Роутер 1Gbit предоставляется на ТП КОМБО 3, КОМБО СКОРОСТЬ СВЕТА, 3-я КОСМИЧЕСКАЯ,
