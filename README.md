@@ -6,7 +6,7 @@ Documentation
 -------------------------------
 Documentation is available on the [Terraform website](http://www.terraform.io):
   - <a href="modem.pdf" >Модемы пропись</a>
-  - <a href=" Кабель, ответвители.pdf" > Кабель, ответвители</a>
+  - <a href="Кабель, ответвители.pdf" > Кабель, ответвители</a>
  - <a href="Pravila.pdf" >Правила замены оборудования</a>
   Кабель, ответвители.pdf
 - Усилители wi-fi сигнала предоставляется только на ТП КОМБО СКОРОСТЬ СВЕТА и
