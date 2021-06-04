@@ -1,10 +1,10 @@
 
 - Website: https://www.help.github.io
-- Правила замены оборудования: [HashiCorp Discuss](https://www.help.github.io/Правила замены c 01.04.2020.pdf)
+- Правила замены оборудования: (https://www.help.github.io/Правила замены c 01.04.2020.pdf)
 - Documentation: [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
 
 
- <img alt="Terraform" src=" " width="600px">
+ <img alt="Правила замены оборудования" src="/Правила замены c 01.04.2020.pdf " width="600px">
 
 - Усилители wi-fi сигнала предоставляется только на ТП КОМБО СКОРОСТЬ СВЕТА и
 СКОРОСТЬ СВЕТА.
