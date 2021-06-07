@@ -1,10 +1,9 @@
 
 - Website: https://www.help.github.io
-- Documentation: [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
+- Website company: [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
 
-Documentation
+Документация
 -------------------------------
-Documentation is available on the [Terraform website](http://www.terraform.io):
   - <a href="modem.pdf" >Модемы пропись</a>
   - <a href="Кабель, ответвители.pdf" > Кабель, ответвители</a>
  - <a href="Pravila.pdf" >Правила замены оборудования</a>
@@ -84,11 +83,5 @@ Crenova-Crenova, Crenova-Konka, Konka-Konka, Konka-Crenova, Coship-Coship.
 
 
 
-The key features of Terraform are:
-
-- **Infrastructure as Code**: Infrastructure is described using a high-level configuration syntax. This allows a blueprint of your datacenter to be versioned and treated as you would any other code. Additionally, infrastructure can be shared and re-used.
-
-
-For more information, see the [introduction section](http://www.terraform.io/intro) of the Terraform website.
 
 
