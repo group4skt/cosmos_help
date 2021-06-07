@@ -85,25 +85,25 @@ Crenova-Crenova, Crenova-Konka, Konka-Konka, Konka-Crenova, Coship-Coship.
 ### Пропись оборудования
 
 Для прописи оборудования используются следующие комбинации:
-|Модем	к МАС-адресу|к mac адресу |
-|-------------------|------------|
-|Cisco 3825/3828d	|3|
-|Cisco 3925/3928ad	|4|
-|Thomson TWG870, TWG850-4, TCW710|	2|
-|Humax (Акадо) | 2|	
-|Sagemcom	|2|
-|Netgear 6250, 3700	|2|
-|Technicolor TC7200 s/n 0000	|1|
-|Technicolor TC7200 s/n SAAP	|2|
-|Technicolor TC7200 s/n 0099	|2|
-|Technicolor EPC3928AD	|4|
-|Cisco 2325	|2|
-|Scientific Atlanta 2325	|3 может быть 2|
-|ASUS	|0|
-|Tp-Link	|1|
-|Tp-Link Archer	|1, ОБЯЗАТЕЛЬНО ПРОВЕРЯЕМ МАС НА СВИТЧЕ ИЛИ В ИНТЕРФЕЙСЕ МОДЕМА, МОЖЕТ НЕ СОВПАДАТЬ С КОРОБКОЙ!|
-|Upvel	|0|
-|D-Link	|1|
+| Модем	к МАС-адресу | к mac адресу |
+|--------------------|--------------|
+| Cisco 3825/3828d	| 3 |
+| Cisco 3925/3928ad	| 4 |
+| Thomson TWG870, TWG850-4, TCW710 |	2|
+| Humax (Акадо) | 2|	
+| Sagemcom	|2|
+| Netgear 6250, 3700	|2|
+| Technicolor TC7200 s/n 0000	|1|
+| Technicolor TC7200 s/n SAAP	|2|
+| Technicolor TC7200 s/n 0099	|2|
+| Technicolor EPC3928AD	|4|
+| Cisco 2325	|2|
+| Scientific Atlanta 2325	|3 может быть 2|
+| ASUS	|0|
+| Tp-Link	|1|
+| Tp-Link Archer	|1, ОБЯЗАТЕЛЬНО ПРОВЕРЯЕМ МАС НА СВИТЧЕ ИЛИ В ИНТЕРФЕЙСЕ МОДЕМА, МОЖЕТ НЕ СОВПАДАТЬ С КОРОБКОЙ!|
+| Upvel	|0|
+| D-Link	|1|
 
 
 
