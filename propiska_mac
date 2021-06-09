@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <title>Пропись оборудования</title>
+  <meta charset="utf-8">
+ </head>
+
+<style>@font-face {
+  font-family:chevin_promedium;
+  src: url(".../BergDesign/G-Type-ChevinPro-Medium.woff");
+} 
+ h1 { 
+ color: #027fd5;
+ size: 8px;
+ }
+ h2 { 
+ color: #027fd5;
+ size: 5px;
+ }
+ </style>
+
+ <img src="https://raw.githubusercontent.com/group4skt/help.github.io/main/logo-new.png">
+ <font=chevin_promedium> <i><b><h1>Пропись оборудования</h1></b></i></font>
+<font=chevin_promedium> 
+<h2>Для прописи оборудования используются следующие комбинации:</h2>
+<table>
+  <colgroup>
+    <col span="2" style="background:Khaki">
+    <col style="background-color:LightCyan">
+  </colgroup>
+  <tr>
+   <th>Модем</th>
+    <th>+ к mac адресу</th>
+   </tr>
+   <tr>
+   <th>Cisco 3825/3828d</th>
+   <th>3</th>
+  </tr>
+  <tr>
+    <th>Cisco 3925/3928ad</th>
+    <th>4</th>
+   </tr>
+   <tr>
+    <th>Thomson TWG870, TWG850-4, TCW710</th>
+    <th>2</th>
+   </tr>
+   <tr>
+    <th>Humax (Акадо)</th>
+    <th>2</th>
+   </tr>
+   <tr>
+    <th>Sagemcom</th>
+    <th>2</th>
+   </tr>
+   <tr>
+    <th>Netgear 6250, 3700</th>
+    <th>2</th>
+   </tr>
+   <tr>
+    <th>Technicolor TC7200 - s/n 0000</th>
+    <th>1</th>
+   </tr>
+   <tr>
+    <th>Technicolor TC7200 - s/n SAAP</th>
+    <th>2</th>
+   </tr>
+   <tr>
+    <th>Technicolor TC7200 - s/n 0099</th>
+    <th>2</th>
+   </tr>
+   <tr>
+    <th>Technicolor EPC3928AD</th>
+    <th>4</th>
+   </tr>
+   <tr>
+    <th>Cisco 2325</th>
+    <th>2</th>
+   </tr>
+   <tr>
+    <th>Scientific Atlanta 2325</th>
+    <th>3 (может быть 2)<th>
+   </tr>
+   <tr>
+    <th>ASUS</th>
+    <th>0</th>
+   </tr>
+   <tr>
+    <th>Tp-Link</th>
+    <th>1</th>
+   </tr>
+   <tr>
+    <th>Tp-Link Archer</th>
+    <th>1( ОБЯЗАТЕЛЬНО ПРОВЕРЯЕМ МАС НА СВИТЧЕ ИЛИ В ИНТЕРФЕЙСЕ МОДЕМА, МОЖЕТ НЕ СОВПАДАТЬ С КОРОБКОЙ!)</th>
+   </tr>
+   <tr>
+    <th>Upvel</th>
+    <th>0</th>
+   </tr>
+   <tr>
+    <th>D-Link</th>
+    <th>1<th>
+   
+   </table>
+ </font>
+</body>
+</html>
