@@ -1,5 +1,3 @@
-
-- Website: https://www.help.github.io
 - Website company: [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
 
 Документация
