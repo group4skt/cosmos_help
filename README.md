@@ -1,5 +1,6 @@
 [Image alt](https://github.com/group4skt/help.github.io/raw/main/logo-new.png)
 [Image alt](https://raw.githubusercontent.com/group4skt/help.github.io/main/logo-new.png)
+![alt tag](https://raw.githubusercontent.com/group4skt/help.github.io/main/logo-new.png)
 
 - Website company: [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
 
