@@ -2,7 +2,7 @@
 
 [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
 
-Документация
+Документация:
 -------------------------------
 - <a href="tarifs.html" >Тарифные планы</a>
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
