@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<html>
- <head>
-  <title>Тег BODY</title>
-  <meta charset="utf-8">
- </head>
- <body onload="alert('Документ загружен')">
 
    <color=red>### Тарифные планы</color>
 
@@ -54,5 +47,4 @@
 | COSMOS Box 2  (ME)	| 38 руб/мес	| 100/100 |	-	| OTT (Online+Megogo) |
 | COSMOS Box 3  (ME)	| 48 руб/мес	| 200/200	| -	| OTT (Online+Megogo) |
 
- </body>
-</html>
+
