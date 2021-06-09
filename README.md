@@ -7,9 +7,9 @@
 - <a href="tarifs.html" >Тарифные планы</a>
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
  - <a href="chastotniy_plan.html" >Каналы СКТ по частотам</a>
-  - <a href="cable.html" > Кабель, ответвители</a>
+  - <a href="cable.html" > Кабель и ответвители</a>
  - <a href="rules.html" >Правила замены оборудования (полное)</a>
- -  <a href="cbl5e.html" >Кабель категории 5E</a>
+ -  <a href="cbl5e.html" >Кабель категории 5E (витая пара)</a>
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
 
 Правила замены оборудования:
