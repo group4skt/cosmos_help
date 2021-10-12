@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+table {
+    font-family: sans-serif;
+    font-size: 20px;
+    width: 40%;
+    text-align: center;
+ box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); 
+ }
+ td, th {
+    background: #b7d6bee7;
+ }
+    </style>
+</head>
+<body>
+    <tbody>
+        <h2>
+            Определение оборудования по серийному номеру
+        </h2>
+        <table>
+            <tr>
+                <td>30503380</td><td class="col1">TV BOX DVB-C (CRENOVA)(СКТ)</td>
+            </tr>
+            <tr class="row2">
+                <td class="col0">30505759</td><td class="col1">TV BOX DVB-C (Crenova 3715 G-Line)(СКТ)</td>
+            </tr>
+            <tr class="row3">
+                <td class="col0">30500943</td><td class="col1">TV BOX DVB-T2 (CRENOVA)(эфир)</td>
+            </tr>
+            <tr class="row4">
+                <td class="col0">70054136042</td><td class="col1">KHDC862 (СКТ)</td>
+            </tr>
+            <tr class="row5">
+                <td class="col0">EG1610H00143</td><td class="col1">KHDT862 (эфир)</td>
+            </tr>
+            <tr class="row6">
+                <td class="col0">69849553347</td><td class="col1">Coship 8770U</td>
+            </tr>
+            <tr class="row7">
+                <td class="col0">69963890772</td><td class="col1">Coship 8772CE</td>
+            </tr>
+            <tr class="row8">
+                <td class="col0">260272911060001835</td><td class="col1">Gorizont efir</td>
+            </tr>
+            <tr class="row9">
+                <td class="col0">260272009090001664</td><td class="col1">Gorizont cabel</td>
+            </tr>
+            <tr class="row10">
+                <td class="col0">64050709020003227</td><td class="col1">Coship efir</td>
+            </tr>
+            <tr class="row11">
+                <td class="col0">0E060B00008925</td><td class="col1">Gi matrix</td>
+            </tr>
+            <tr class="row12">
+                <td class="col0">RBY1163BN3A00019</td><td class="col1">Topfield</td>
+            </tr>
+            <tr class="row13">
+                <td class="col0">CM1131D24-000662</td><td class="col1">Fortis</td>
+            </tr>
+            <tr class="row14">
+                <td class="col0">D5150011040000090800001J</td><td class="col1">Chong-chong</td>
+            </tr>
+            <tr class="row15">
+                <td class="col0">67A9DF01212233046</td><td class="col1">Humax</td>
+            </tr>
+            <tr class="row16">
+                <td class="col0">30001234</td><td class="col1">CAM</td>
+            </tr>
+            <tr class="row17">
+                <td class="col0">64460593557</td><td class="col1">CAM</td>
+            </tr>
+            <tr class="row18">
+                <td class="col0">56387955406</td><td class="col1">CAM</td>
+            </tr>
+            <tr class="row19">
+                <td class="col0">KAFAM104520163</td><td class="col1">CAM</td>
+            </tr>
+            <tr class="row20">
+                <td class="col0">0200030555</td><td class="col1">CAM</td>
+            </tr>
+            <tr class="row21">
+                <td class="col0">OAF1M130901670</td><td class="col1">CAM</td>
+            </tr>
+            <tr class="row22">
+                <td class="col0">30001233:1002001234</td><td class="col1">CAM</td>
+            </tr>
+            <tr class="row23">
+                <td class="col0">8105078982</td><td class="col1">CAM</td>
+            </tr>
+            <tr class="row24">
+                <td class="col0">2104678257</td><td class="col1">CAM</td>
+            </tr>
+        </table>
+       
+</tbody>
+</body>
+</html>
