@@ -51,7 +51,7 @@ Crenova-Crenova, Crenova-Konka, Konka-Konka, Konka-Crenova, Coship-Coship.
 6. В открывшемся меню нажать «Локальное обновление»
 7. Выбрать прошивку «h3s-cosmos-20210524-ota-d.zip» , которая была скопирована на USB-накопитель.
 8. Дождаться верификации файла. В процессе обновления по окончании верификации приставка автоматически перезагрузится. 
-9. Прошивка REDBOX MINI 3 https://cosmos-telecom.by/images/files/proshivka_OTT_3.zip
+9. [Прошивка REDBOX MINI 3](https://cosmos-telecom.by/images/files/proshivka_OTT_3.zip)
 
 Тарифные планы:
 -------------------------------
