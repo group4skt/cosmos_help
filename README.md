@@ -8,7 +8,7 @@
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
 - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a>
  - <a href="chastotniy_plan.html" >Каналы СКТ по частотам</a>
- - <a href="chastotniy_plan.pdf" >Каналы СКТ по частотам</a>
+ - <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/Chastotny_plan.jpg" >Каналы СКТ по частотам</a>
   - <a href="cable.html" > Кабель и ответвители</a>
  - <a href="rules.html" >Правила замены оборудования (полное)</a>
  -  <a href="cbl5e.html" >Кабель категории 5E (витая пара)</a>
