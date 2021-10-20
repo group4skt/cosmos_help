@@ -9,6 +9,7 @@
 - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
 - <a href="chastotniy_plan.html" >Каналы СКТ по частотам</a>
  - <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/Chastotny_plan.pdf#page=1#" >Каналы СКТ по частотам скачать в PDF</a>
+ - <a href="spisok ott.html" >Список епналов OTT</a>
   - <a href="cable.html" > Кабель и ответвители</a>
  - <a href="rules.html" >Правила замены оборудования (полное)</a>
  -  <a href="cbl5e.html" >Кабель категории 5E (витая пара)</a>
