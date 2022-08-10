@@ -4,7 +4,7 @@
 
 Документация:
 -------------------------------
-[//]: #- <a href="tarifs.html" >Тарифные планы</a>
+[//]: # (- <a href="tarifs.html" >Тарифные планы</a>)
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
 - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
 - <a href="chastotniy_plan.html" >Каналы СКТ по частотам</a>
