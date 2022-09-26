@@ -15,7 +15,7 @@
  - <a href="cable.html" > Кабель и ответвители</a>
  -  <a href="cbl5e.html" >Кабель категории 5E (витая пара)</a>
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
- - [https://Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
+ - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
  
  
 
