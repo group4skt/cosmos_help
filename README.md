@@ -9,7 +9,7 @@
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
 - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
 - <a href="chastotniy_plan.html" >Каналы СКТ по частотам</a>
-- <a href="spisok_SKT_.html" >Список каналов СКТ</a>
+- <a href="spisok_skt.html" >Список каналов СКТ</a>
  - <a href="spisok ott.html" >Список каналов OTT</a>
  -  <a href="sub.html" >SUB </a>
  - <a href="cable.html" > Кабель и ответвители</a>
