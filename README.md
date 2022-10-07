@@ -7,6 +7,7 @@
 [//]: # (- <a href="tarifs.html" >Тарифные планы</a>)
 [//]: # (- <a href="rules.html" >Правила замены оборудования </a>)
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
+- <a href="error.html" >Расшифровка ошибок САМ</a> 
 - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
 - <a href="chastotniy_plan.html" >Каналы СКТ по частотам</a>
 - <a href="spisok_skt.html" >Список каналов СКТ октябрь 2022</a>
