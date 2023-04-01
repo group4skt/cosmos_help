@@ -7,6 +7,7 @@
 [//]: # (- <a href="tarifs.html" >Тарифные планы</a>)
 [//]: # (- <a href="rules.html" >Правила замены оборудования </a>)
 - <a href="pam_tar_pl.html" >Памятка по тарифным планам</a>
+- <a href="spisok_skidki.html" >Скидки для новых абонентов апрель май 2023</a>
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
 - <a href="stoyak.html" >Стояки СКТ расшифровка</a>
 - <a href="error.html" >Расшифровка ошибок САМ</a> 
