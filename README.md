@@ -9,7 +9,7 @@
 - <a href="pam_tar_pl.html" >Памятка по тарифным планам</a>
 - <a href="spisok_nov.html" >Скидки для новых абонентов апрель май 2023</a>
 - <a href="perehod.html" >Скидки на переходы апрель май 2023</a>
-- <a href="https://docs.google.com/document/d/13LnncGoH-Sw7zKQo56RtPZwSwC1P34gSc5OJnEwd9FA/edit?usp=sharing" >Памятка по тарифным планам</a>
+- <a href="https://github.com/group4skt/cosmos_help/blob/main/files/%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%BD%D1%8B%D0%BC%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0%D0%BC.pdf" >Памятка по тарифным планам</a>
 - <a href="zamena.html" >Правила замены оборудования</a>
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
 - <a href="stoyak.html" >Стояки СКТ расшифровка</a>
