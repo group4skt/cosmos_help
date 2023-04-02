@@ -9,6 +9,7 @@
 - <a href="pam_tar_pl.html" >Памятка по тарифным планам</a>
 - <a href="spisok_nov.html" >Скидки для новых абонентов апрель май 2023</a>
 - <a href="perehod.html" >Скидки на переходы апрель май 2023</a>
+- <a href="https://docs.google.com/document/d/13LnncGoH-Sw7zKQo56RtPZwSwC1P34gSc5OJnEwd9FA/edit?usp=sharing" >Памятка по тарифным планам</a>
 - <a href="zamena.html" >Правила замены оборудования</a>
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
 - <a href="stoyak.html" >Стояки СКТ расшифровка</a>
