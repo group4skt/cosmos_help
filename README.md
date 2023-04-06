@@ -7,6 +7,7 @@
 [//]: # (- <a href="tarifs.html" >Тарифные планы</a>)
 [//]: # (- <a href="rules.html" >Правила замены оборудования </a>)
 - <a href="pam_tar_pl.html" >Памятка по тарифным планам</a>
+ -  <a href="equ.html" >Комплектация оборудования</a>
 - <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/памятка по тарифным планам.pdf" >Памятка по тарифным планам pdf</a>
 - <a href="spisok_nov.html" >Скидки для новых абонентов апрель май 2023</a>
 - <a href="perehod.html" >Скидки на переходы апрель май 2023</a>
@@ -22,7 +23,6 @@
  - <a href="cable.html" > Кабель и ответвители</a>
  -  <a href="cbl5e.html" >Кабель категории 5E (витая пара)</a>
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
- -  <a href="equ.html" >Комплектация оборудования</a>
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
  
 
