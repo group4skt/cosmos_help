@@ -9,6 +9,7 @@
 - <a href="pam_tar_pl.html" >Памятка по тарифным планам</a>
  -  <a href="equ.html" >Комплектация оборудования</a>
 - <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/памятка по тарифным планам.pdf" >Памятка по тарифным планам pdf</a>
+- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/памятка по тарифным планам.pdf" >Прейскурант на разовые услуги pdf</a>
 - <a href="spisok_nov.html" >Скидки для новых абонентов апрель май 2023</a>
 - <a href="perehod.html" >Скидки на переходы апрель май 2023</a>
 - <a href="zamena.html" >Правила замены оборудования</a>
