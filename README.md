@@ -15,7 +15,6 @@
 - <a href="equ.html" >Комплектация оборудования</a>
 - <a href="zamena.html" >Правила замены оборудования</a>
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
-- <a href="stoyak.html" >Стояки СКТ расшифровка</a>
 - <a href="error.html" >Расшифровка ошибок САМ</a> 
 - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
  - <a href="spisok ott.html" >Список каналов OTT</a>
