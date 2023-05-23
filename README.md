@@ -23,7 +23,7 @@
  -  <a href="cbl5e.html" >Кабель категории UTP (витая пара)</a>
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
- -   <img src="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/p0001.jpg">
+
 
 ### Полная стоимость услуг  по подключению без скидок с 1 апреля 2023: ###
 
