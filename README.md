@@ -11,13 +11,13 @@
 - <a href="pam_tar_pl.html" >Памятка по тарифным планам</a>
 - <a href="spisok_nov.html" >Скидки для новых абонентов апрель-май 2023</a>
 - <a href="perehod.html" >Скидки на переходы апрель-май 2023</a>
+- <a href="chastotniy_plan.html" >Список каналов СКТ по частотам</a>
 - <a href="equ.html" >Комплектация оборудования</a>
 - <a href="zamena.html" >Правила замены оборудования</a>
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
 - <a href="stoyak.html" >Стояки СКТ расшифровка</a>
 - <a href="error.html" >Расшифровка ошибок САМ</a> 
 - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
-- <a href="chastotniy_plan.html" >Список каналов СКТ по частотам</a>
  - <a href="spisok ott.html" >Список каналов OTT</a>
  -  <a href="sub.html" >SUB </a>
  - <a href="cable.html" > Кабель и ответвители</a>
