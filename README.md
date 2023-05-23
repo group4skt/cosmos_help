@@ -17,7 +17,7 @@
 - <a href="stoyak.html" >Стояки СКТ расшифровка</a>
 - <a href="error.html" >Расшифровка ошибок САМ</a> 
 - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
-- <a href="chastotniy_plan.html" >Каналы СКТ по частотам</a>
+- <a href="chastotniy_plan.html" >Список каналов СКТ по частотам</a>
 - <a href="spisok_skidki.html" >Скидки для новых абонентов апрель май 2023</a>
  - <a href="spisok ott.html" >Список каналов OTT</a>
  -  <a href="sub.html" >SUB </a>
