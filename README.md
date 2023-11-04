@@ -21,6 +21,7 @@
  - <a href="cable.html" > Кабель и ответвители</a>
  -  <a href="cbl5e.html" >Кабель категории UTP (витая пара)</a>
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
+ -  <!img src="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/file.jpg">
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
    
 ### НОВЫЕ ТАРИФЫ ДЛЯ НОВЫХ АБОНЕНТОВ с 1 сентября по 31 декабря 2023 года: ###
