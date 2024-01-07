@@ -10,7 +10,7 @@
 [//]: # (- <a href="pam_tar_pl.html" >Памятка по тарифным планам с 1 июня 2023</a>)
 [//]: #  (- <a href="spisok ott.html" >Список каналов OTT</a>)
 - <a href="chastotniy_plan.html" >Список каналов СКТ </a>
--  <a href="price.html" >Прейскурант цен на услуги </a>
+-  <a href="price.html" >Прейскурант цен на услуги с 1 ноября 2023 </a>
 - <a href="pam_tar_pl_2024.html" >Новые тарифные планы с 1 января 2024</a>
 - <a href="pod.html" >Памятка по по оформлению документов</a>
 - <a href="perehod.html" >Скидки на переходы с июня 2023</a>
