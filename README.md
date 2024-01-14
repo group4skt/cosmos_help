@@ -10,7 +10,6 @@
 [//]: #  (- <a href="spisok ott.html" >Список каналов OTT</a>)
 - <a href="marketing.html" >Приказы по маркетинглвым мероприятиям  с 1 января 2024</a>
 - <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/Приказ №01-02_128 от 14.12.2023.pdf" target="_blank" >Приказ №01-02_128 от 14.12.2023</a>
--  <object type="application/pdf" data="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_128.pdf" >
 - <a href="chastotniy_plan.html" >Список каналов СКТ </a>
 -  <a href="price.html" >Прейскурант цен на услуги с 1 ноября 2023 </a>
 - <a href="pam_tar_pl_2024.html" >Новые тарифные планы с 1 января 2024</a>
