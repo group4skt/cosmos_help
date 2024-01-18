@@ -25,8 +25,9 @@
  - <a href="cable.html" > Кабель и ответвители</a>
  -  <a href="cbl5e.html" >Кабель категории UTP (витая пара)</a>
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>\
-    `пример`
+  
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)\
+     `пример`
 ```
 Latest Version: 1.5
 Release date: 18-JAN-2024
