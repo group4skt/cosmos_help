@@ -26,9 +26,11 @@
  -  <a href="cbl5e.html" >Кабель категории UTP (витая пара)</a>
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>\
     `пример`
- - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
-
-   
+ - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)\
+```
+Latest Version: 2.5
+Release date: 16-Nov-2023
+   ```
 ## НОВЫЕ ТАРИФЫ ДЛЯ НОВЫХ АБОНЕНТОВ с 1 января по 31 марта 2024 года: ##
 ## Вместе Онлайн ##
 
