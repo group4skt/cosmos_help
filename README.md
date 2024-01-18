@@ -24,7 +24,7 @@
  -  <a href="sub.html" >SUB </a>
  - <a href="cable.html" > Кабель и ответвители</a>
  -  <a href="cbl5e.html" >Кабель категории UTP (витая пара)</a>
- - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
+ - <a href="noize.html" >Инструкция по поиску и устранению помех</a>\
     `пример`
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
 
