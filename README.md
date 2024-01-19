@@ -1,3 +1,4 @@
+
 ![alt tag](https://raw.githubusercontent.com/group4skt/help.github.io/main/logo-new.png)
 
 [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
@@ -306,3 +307,6 @@ Release date: 18-JAN-2024
 | СКТ-13    |   10.49.0.0/16       | 91.149.137.0/25 \\ [2…126]       |
 | СКТ-25    |  10.101.34.0/23      | 93.125.104.128/27                |
 | СКТ-25-metro|  10.212.0.0/16     | 185.203.153.0/24 \\ 93.125.106.0/24  |
+
+---
+<p align="center">Made with Love ❤️</p>
