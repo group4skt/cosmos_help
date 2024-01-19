@@ -29,12 +29,11 @@
   
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)\
      `пример`
+ <hr>  
 ```
 Latest Version: 1.5
 Release date: 18-JAN-2024
    ```
-<hr>
-
 ## НОВЫЕ ТАРИФЫ ДЛЯ НОВЫХ АБОНЕНТОВ с 1 января по 31 марта 2024 года: ##
 ## Вместе Онлайн ##
 
