@@ -27,7 +27,7 @@
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>\
   
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)\
-     `пример`
+
 ```
 Latest Version: 1.5
 Release date: 18-JAN-2024
