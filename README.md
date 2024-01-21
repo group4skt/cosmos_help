@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://lookimg.com/images/2023/09/25/QY5RTR.png" alt="MAS Logo" height="128"></p>
 ![alt tag](https://raw.githubusercontent.com/group4skt/help.github.io/main/logo-new.png)
 
 [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
