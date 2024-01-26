@@ -1,10 +1,10 @@
 <p align="center"><img src="https://lookimg.com/images/2023/09/25/QY5RTR.png" alt="MAS Logo" height="128"></p>
 
 [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
-[![Release downloads](https://img.shields.io/github/downloads/thebookisclosed/ViVe/total.svg)](https://GitHub.com/thebookisclosed/ViVe/releases/)
 
 Документация:
 -------------------------------
+[![Release downloads](https://img.shields.io/github/downloads/thebookisclosed/ViVe/total.svg)](https://GitHub.com/thebookisclosed/ViVe/releases/)
 [//]: # (- <a href="tarifs.html" >Тарифные планы</a>)
 [//]: # (- <a href="rules.html" >Правила замены оборудования </a>)
 [//]: # (- <a href="zamena.html" >Правила замены оборудования</a>)
