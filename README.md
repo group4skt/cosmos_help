@@ -1,6 +1,7 @@
 <p align="center"><img src="https://lookimg.com/images/2023/09/25/QY5RTR.png" alt="MAS Logo" height="128"></p>
 
 [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
+[![Release downloads](https://img.shields.io/github/downloads/thebookisclosed/ViVe/total.svg)](https://GitHub.com/thebookisclosed/ViVe/releases/)
 
 Документация:
 -------------------------------
