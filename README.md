@@ -28,7 +28,7 @@
  - <a href="https://www.flipsnack.com/ABA8B699E8C/pr_02_130.html" >НОВЫЕ ПРИКАЗЫ</a>\
   
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)\
-[![Release downloads](https://img.shields.io/github/downloads/thebookisclosed/ViVe/total.svg)](https://GitHub.com/thebookisclosed/ViVe/releases/)\
+[![Release downloads](https://img.shields.io/github/downloads/thebookisclosed/ViVe/total.svg)](https://GitHub.com/thebookisclosed/ViVe/releases/)
 
 ```
 Latest Version: 1.5
