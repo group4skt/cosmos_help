@@ -25,7 +25,7 @@
 - <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_128.pdf" target="_blank" >Приказ №01-02_128 от 14.12.2023</a>
 - <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_129.pdf" target="_blank" >Приказ №01-02_129 от 14.12.2023</a>
 - <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_130.pdf" target="_blank" >Приказ №01-02_130 от 14.12.2023</a>
-- <a href="marketing.html" >Приказы по маркетинглвым мероприятиям  с 1 января 2024</a>
+
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
 
 ```
