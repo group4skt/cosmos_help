@@ -9,6 +9,8 @@
 [//]: # (- <a href="zamena.html" >Правила замены оборудования</a>)
 [//]: #  (- <a href="spisok ott.html" >Список каналов OTT</a>)
 - <a href="pam_tar_pl_2024.html" >Новые тарифные планы с 1 января 2024</a>
+- <a href="pro100.html" >Тариф ПРО100</a>
+- <a href="pro100tv.html" >Тариф ПРО100+ТВ</a>
 - <a href="chastotniy_plan.html" >Список каналов СКТ </a>
 -  <a href="price.html" >Прейскурант цен на услуги с 1 ноября 2023 </a>
 - <a href="pr_2024.html" >Приказы 2024</a>
