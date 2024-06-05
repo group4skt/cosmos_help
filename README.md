@@ -16,11 +16,11 @@
 - <a href="pam_tar_pl_2024.html" >Новые тарифные планы с 1 июня 2024</a>
 -  <a href="price.html" >Прейскурант цен на услуги </a>
 - <a href="chastotniy_plan.html" >Список каналов СКТ </a>
-- <a href="pr_2024.html" >Приказы 2024</a>
-- <a href="pod.html" >Памятка по по оформлению документов</a>
 - <a href="perehod.html" >Скидки на переходы с 1 июня 2023</a>
-- <a href="equ.html" >Комплектация оборудования</a>
+- <a href="pr_2024.html" >Приказы 2024</a>
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
+- <a href="equ.html" >Комплектация оборудования</a>
+- <a href="pod.html" >Памятка по по оформлению документов</a>
 - <a href="error.html" >Расшифровка ошибок САМ</a> 
 - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
  -  <a href="sub.html" >SUB </a>
