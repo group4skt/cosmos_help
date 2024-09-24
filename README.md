@@ -7,17 +7,17 @@
 [//]: # (- <a href="tarifs.html" >Тарифные планы</a>)
 [//]: # (- <a href="rules.html" >Правила замены оборудования </a>)
 [//]: # (- <a href="zamena.html" >Правила замены оборудования</a>)
-[//]: #  (- <a href="spisok ott.html" >Список каналов OTT</a>)
+[//]: # (- <a href="spisok ott.html" >Список каналов OTT</a>)
 [//]: # (- <a href="pro100.html" >Тариф ПРО100</a>)
 [//]: # (- <a href="pro100tv.html" >Тариф ПРО100+ТВ</a>)
 [//]: # (- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_128.pdf" target="_blank" >Приказ №01-02_128 от 14.12.2023 PDF</a>)
 [//]: # (- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_129.pdf" target="_blank" >Приказ №01-02_129 от 14.12.2023 PDF</a>)
 [//]: # (- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_130.pdf" target="_blank" >Приказ №01-02_130 от 14.12.2023 PDF</a>)
 [//]: # (- <a href="pam_tar_pl_2024.html" >Новые тарифные планы с 1 июня 2024</a>)
+[//]: # (- <a href="pr_2024.html" >Приказы 2024</a>)
 -  <a href="price.html" >Прейскурант цен на услуги </a>
 - <a href="chastotniy_plan.html" >Список каналов СКТ </a>
 - <a href="perehod.html" >Скидки на переходы с 1 июня 2023</a>
-[//]: # (- <a href="pr_2024.html" >Приказы 2024</a>)
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
 - <a href="equ.html" >Комплектация оборудования</a>
 - <a href="pod.html" >Памятка по по оформлению документов</a>
@@ -35,7 +35,7 @@
 
 ```
 Latest Version: 1.5
-Release date: 05-06-2024
+Release date: 24-09-2024
    ```
 ## НОВЫЕ ТАРИФЫ ДЛЯ НОВЫХ АБОНЕНТОВ  2024 года: ##
 ## Твой КОСМОС ##
