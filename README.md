@@ -28,6 +28,7 @@
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
 - <a href="pam_tar_pl_2024.html" >Новые тарифные планы с 1 июня 2024</a>
 - <a href="zay_ab.html" >Заявления для абонентов</a>
+- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_130.pdf" target="_blank" >Общая инструкция по настройке цифровых каналов </a>)
 
 
 
