@@ -13,7 +13,6 @@
 [//]: # (- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_128.pdf" target="_blank" >Приказ №01-02_128 от 14.12.2023 PDF</a>)
 [//]: # (- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_129.pdf" target="_blank" >Приказ №01-02_129 от 14.12.2023 PDF</a>)
 [//]: # (- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_130.pdf" target="_blank" >Приказ №01-02_130 от 14.12.2023 PDF</a>)
-- <a href="pam_tar_pl_2024.html" >Новые тарифные планы с 1 июня 2024</a>
 [//]: # (- <a href="pr_2024.html" >Приказы 2024</a>)
 [//]: # (- <a href="perehod.html" >Скидки на переходы с 1 июня 2023</a>)
 -  <a href="price.html" >Прейскурант цен на услуги </a>
@@ -27,7 +26,7 @@
  - <a href="cable.html" > Кабель и ответвители</a>
  -  <a href="cbl5e.html" >Кабель категории UTP (витая пара)</a>
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
-
+- <a href="pam_tar_pl_2024.html" >Новые тарифные планы с 1 июня 2024</a>
 
 
 
