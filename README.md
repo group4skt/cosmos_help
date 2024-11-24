@@ -29,7 +29,7 @@
 - <a href="pam_tar_pl_2024.html" >Новые тарифные планы с 1 июня 2024</a>
 - <a href="zay_ab.html" >Заявления для абонентов</a>
 - <a href="https://cosmos-telecom.by/files/instruction/3-1652434660-3-obshaya_instrukciya_po_nastroyke_cifrovyh_kanalov_pri_ispoljzovaniya_sa-modulya.pdf" >Общая инструкция по настройке цифровых каналов </a>
-- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/cosmos_tv.apk" target="_blank" >Скачать приложения cosmos_tv для андроид</a>
+- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/cosmos_tv.apk" >Скачать приложения cosmos_tv для андроид</a>
 
 
 
