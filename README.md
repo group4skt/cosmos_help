@@ -29,6 +29,9 @@
  - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
 - <a href="https://cosmos-telecom.by/files/instruction/3-1652434660-3-obshaya_instrukciya_po_nastroyke_cifrovyh_kanalov_pri_ispoljzovaniya_sa-modulya.pdf" >Общая инструкция по настройке цифровых каналов </a>
+- <a href="https://cosmos-telecom.by/clients/documents" >Заявления для абонентов </a>
+
+https://cosmos-telecom.by/clients/documents
 - <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/cosmos_tv.apk" >Скачать приложения cosmos_tv для андроид </a>
 
 
