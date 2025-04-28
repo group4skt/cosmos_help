@@ -5,7 +5,645 @@
   <title>Тарифные планы</title>
   <meta charset="utf-8">
  </head>
+<head>
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <title>Отчет по установкам</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+    <script type="text/javascript" src="/static/js/jquery-2.2.4.min.js"></script>
+    <link rel="shortcut icon" href="/static/img/favicon.ico">
+    <script type="text/javascript" src="/static/js/myfiltr.js"></script>
+    <script type="text/javascript" src="/static/js/utils.js"></script>
+    <script type="text/javascript" src="/static/js/sort.js"></script>
+    <style>
+        .menu li a:hover {
+            background-color: #d8d7dc;
+            color: #377BA8;
+            text-decoration: none;
+        }
+    </style>
+</head>
+ <body onload="open_menu()">
+    <div id="wrapper">
+        <div id="header">
+            <table style="border:none;width:100%;border-bottom: 2px solid #eee;">
+                <tbody><tr>
+                    <td style="border:none">
+                        <h1 id="page_title"> Отчет по установкам</h1>
+                    </td>
+                    <td style="border:none;text-align:right;">
+                        <img src="/static/img/logo.png" height="28" width="128" alt="cosmostv">
+                    </td>
+                </tr>
+            </tbody></table>
 
+            <p style="text-align:right;"><strong>Полешук Иван Иванович</strong>
+                 (Оператор АО, Диспетчер, Мониторинг (просмотр), Мониторинг (отправка сообщений), Техническая поддержка, Отчетность эксплуатация, Отдел УЭиГО, ОКЗ. Отчеты по МОЛ, CRM. Ремонтник, CRM. Ремонтник. Админ, Группа № 4, CRM. Монтажники, CRM. Продажи, CRM. Монтажики - администраторы, CRM. Админ, Техника безопасности, Мониторинг, Мониторинг. Редактирование сообщений, Роль РУКОВОДИТЕЛЬ ГРУППЫ СКТ, Мониторинг. Отправка СМС) <a href="/logout">Выйти</a>
+                
+            </p>
+
+            <div id="flashes">
+                
+                
+                
+            </div>
+        </div><!--header-->
+
+        <div id="middle">
+            <div id="leftmenu">
+                <ul class="menu">
+                     <li><a href="#" id="li_221" onclick="draw_submenu($(this))">OTT</a></li>
+<li><a href="#" id="li_78" onclick="draw_submenu($(this))">Ведение контрактов</a></li>
+<li><a href="/docgen" id="li_74">Документы</a></li>
+<li><a href="#" id="li_16" onclick="draw_submenu($(this))">Журнал заявок Stranger</a></li>
+<li><a href="/cwcard" id="li_238">Карточка клиента (cw)</a></li>
+<li><a href="/clientcard" id="li_21">Карточка клиента (forward)</a></li>
+<li><a href="/hydracard" id="li_77">Карточка клиента (гидра)</a></li>
+<li><a href="#" id="li_9" onclick="draw_submenu($(this))">Мониторинг</a></li>
+<li><a href="#" id="li_38" onclick="draw_submenu($(this))">ОАО</a></li>
+<li><a href="#" id="li_105" onclick="draw_submenu($(this))">Опросы</a></li>
+<li><a href="#" id="li_183" onclick="draw_submenu($(this))">Отдел контроля заказов</a></li>
+<li><a href="#" id="li_45" onclick="draw_submenu($(this))">Отчетность</a><ul>
+<li><a href="/reports/callsupport" id="li_71">Звонки в поддержку</a></li>
+<li><a href="/reports/ueigo_dem_report_two" id="li_273">Отчет по выполненным демонтажам</a></li>
+<li><a href="/reports/stranger_report" id="li_93">Отчет по журналу заказов</a></li>
+<li><a href="/reports/report_install" id="li_290">Отчет по установкам</a></li>
+</ul></li>
+<li><a href="/check_address" id="li_125">Проверка адреса</a></li>
+<li><a href="#" id="li_22" onclick="draw_submenu($(this))">Программа STB</a></li>
+<li><a href="#" id="li_85" onclick="draw_submenu($(this))">Склад</a></li>
+<li><a href="#" id="li_285" onclick="draw_submenu($(this))">Техника безопасности</a></li>
+<li><a href="#" id="li_33" onclick="draw_submenu($(this))">Техническая поддержка</a></li>
+<li><a href="#" id="li_68" onclick="draw_submenu($(this))">Хотспоты</a></li>
+ 
+                </ul>
+                
+            </div><!--leftmenu-->
+            <div id="container">
+                <div id="content">
+                    
+<div class="errors" style="display: block;">
+    <p class="error">Ничего не найдено</p></div>
+<script type="text/javascript" src="/static/js/xlsx.full.min.js"></script>
+<style>
+    .AllInfoInstall{
+        display:flex;
+    }
+    .table_install{
+        margin-right: 5px;
+    }    
+
+
+</style>
+
+<form method="post" action="/reports/report_install">
+    <label for="dts">Период с: </label>
+    
+        <input type="text" id="dts" name="dts" placeholder="Дата начала" value="01.04.2025">
+    
+    <br>
+    <label for="dte">Период до: </label>
+    
+        <input type="text" id="dte" name="dte" placeholder="Дата окончания" value="30.04.2025">
+    
+    <br>
+    <input type="submit" value="Получить">
+</form>
+<button id="import_to_excel" onclick="_to_excel()">Выгрузить в эксель</button>
+
+
+
+<div class="AllInfoInstall">
+    
+    <div class="table_install">
+        <table class="tb" id="Группа 1">
+            <thead>
+                <tr>
+                    <td id="Группа 1">Группа 1</td>
+                    <td><input type="button" onclick="doit('Группа 1')" value="Выгрузить в эксель"></td>
+                </tr>
+                <tr>
+                    <td>ФИО</td>
+                    <td>Колличество</td>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70475')">
+                    <td>Осмоловский Игорь Вячеславович</td>
+                    <td>1</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69979')">
+                    <td>Путырский Сергей Николаевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('91')">
+                    <td>Хижняк Светлана Владимировна</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69971')">
+                    <td>Горин Сергей Анатольевич</td>
+                    <td>4</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('89')">
+                    <td>Каленкович Игорь Викторович</td>
+                    <td>9</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70472')">
+                    <td>Васильев Александр Игоревич</td>
+                    <td>2</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70536')">
+                    <td>Жуков Михаил Михайлович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70033')">
+                    <td>Шек Александр Владимирович</td>
+                    <td>11</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70361')">
+                    <td>Горбунов Александр Сергеевич</td>
+                    <td>6</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70027')">
+                    <td>Липень Дмитрий Николаевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70434')">
+                    <td>Микицкий Сергей Владимирович</td>
+                    <td>17</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70479')">
+                    <td>Апарин Андрей Георгиевич</td>
+                    <td>7</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70523')">
+                    <td>Линго Никита Витальевич</td>
+                    <td>1</td>
+                </tr>
+                
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Всего по группе</td>
+                    <td>58</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    
+    <div class="table_install">
+        <table class="tb" id="Группа 2">
+            <thead>
+                <tr>
+                    <td id="Группа 2">Группа 2</td>
+                    <td><input type="button" onclick="doit('Группа 2')" value="Выгрузить в эксель"></td>
+                </tr>
+                <tr>
+                    <td>ФИО</td>
+                    <td>Колличество</td>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69983')">
+                    <td>Денисенко Виктор Владимирович</td>
+                    <td>13</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('95')">
+                    <td>Зубковский Сергей Иванович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69984')">
+                    <td>Заболоцкий Александр Михайлович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('26')">
+                    <td>Хижняк Игорь Иванович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69992')">
+                    <td>Черлёнок Леонид Степанович</td>
+                    <td>14</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69980')">
+                    <td>Венский Дмитрий Анатольевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69989')">
+                    <td>Пойда Владимир Александрович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69986')">
+                    <td>Новогран Николай Николаевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69987')">
+                    <td>Островский Эдуард Георгиевич</td>
+                    <td>19</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69982')">
+                    <td>Гучек Олег Евгеньевич</td>
+                    <td>21</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70025')">
+                    <td>Желудкович Максим Николаевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69862')">
+                    <td>Писной Виталий Владимирович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70039')">
+                    <td>Виноградов Андрей Владимирович</td>
+                    <td>0</td>
+                </tr>
+                
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Всего по группе</td>
+                    <td>67</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    
+    <div class="table_install">
+        <table class="tb" id="Группа 3">
+            <thead>
+                <tr>
+                    <td id="Группа 3">Группа 3</td>
+                    <td><input type="button" onclick="doit('Группа 3')" value="Выгрузить в эксель"></td>
+                </tr>
+                <tr>
+                    <td>ФИО</td>
+                    <td>Колличество</td>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69954')">
+                    <td>Кушнеревич Михаил Владимирович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69960')">
+                    <td>Гиль Владимир Анатольевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70476')">
+                    <td>Волох Илья Александрович</td>
+                    <td>88</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70351')">
+                    <td>Неверович Сергей Сергеевич</td>
+                    <td>23</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70393')">
+                    <td>Воронович Игорь Валентинович </td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69958')">
+                    <td>Верховский Александр Александрович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69953')">
+                    <td>Астапенко Дмитрий Иванович</td>
+                    <td>6</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69956')">
+                    <td>Каташинский Андрей Александрович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70537')">
+                    <td>Громов Сергей Иванович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('181')">
+                    <td>Гапанович Михаил Валерьевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70468')">
+                    <td>Валюк Анатолий Геннадьевич</td>
+                    <td>70</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('416')">
+                    <td>Максименко Игорь Михайлович</td>
+                    <td>23</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70026')">
+                    <td>Кобзев Олег Анатольевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69952')">
+                    <td>Дрындин Антуан Александрович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('64')">
+                    <td>Таранов Сергей Геннадьевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('62')">
+                    <td>Бахмут Леонид Васильевич</td>
+                    <td>26</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70041')">
+                    <td>Кашинский Артур Михайлович</td>
+                    <td>0</td>
+                </tr>
+                
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Всего по группе</td>
+                    <td>236</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    
+    <div class="table_install">
+        <table class="tb" id="Группа 4">
+            <thead>
+                <tr>
+                    <td id="Группа 4">Группа 4</td>
+                    <td><input type="button" onclick="doit('Группа 4')" value="Выгрузить в эксель"></td>
+                </tr>
+                <tr>
+                    <td>ФИО</td>
+                    <td>Колличество</td>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69968')">
+                    <td>Лепешкин Петр Борисович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69978')">
+                    <td>Млынарчик Геннадий Иванович</td>
+                    <td>10</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('99')">
+                    <td>Вусевич Владимир Михайлович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69966')">
+                    <td>Доценко Александр Павлович</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69965')">
+                    <td>Данилевич Юрий Станиславович</td>
+                    <td>2</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70447')">
+                    <td>Радивило Александр Александрович</td>
+                    <td>11</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70538')">
+                    <td>Делендик Евгений Юрьевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69970')">
+                    <td>Федоров Сергей Витальевич</td>
+                    <td>8</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('94')">
+                    <td>Полешук Иван Иванович</td>
+                    <td>16</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69976')">
+                    <td>Лыко Александр Васильевич</td>
+                    <td>0</td>
+                </tr>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('69964')">
+                    <td>Башко Сергей Александрович</td>
+                    <td>13</td>
+                </tr>
+                
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Всего по группе</td>
+                    <td>60</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    
+    <div class="table_install">
+        <table class="tb" id="Группа СКТ Бобруйск">
+            <thead>
+                <tr>
+                    <td id="Группа СКТ Бобруйск">Группа СКТ Бобруйск</td>
+                    <td><input type="button" onclick="doit('Группа СКТ Бобруйск')" value="Выгрузить в эксель"></td>
+                </tr>
+                <tr>
+                    <td>ФИО</td>
+                    <td>Колличество</td>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr style="cursor:pointer;" onclick="MoreInfo('70483')">
+                    <td>Мисюль Андрей Геннадьевич</td>
+                    <td>1</td>
+                </tr>
+                
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Всего по группе</td>
+                    <td>1</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    
+    </div>
+
+
+
+<div id="more" style="margin: 5px; display: none;">
+    <table class="tb" id="tb_more">
+        <thead>
+            <tr>
+                <td>Контракт</td>
+                <td>Адрес</td>
+                <td>Квартира</td>
+                <td>Дата</td>
+                <td>Время</td>
+                <td>Операция</td>
+            </tr>
+        </thead>
+        <tbody id="tbody_more"><tr><td>100115003</td><td>г. Минск, Федорова Академика ул., д. 9</td><td>59</td><td>2025-04-03</td><td>16:02:00</td><td>COSMOS BOX (Интернет+IPTV)</td></tr><tr><td>100115047</td><td>г. Минск, ул. Лобанка, д. 17</td><td>17</td><td>2025-04-04</td><td>13:02:00</td><td>COSMOS BOX (Интернет+IPTV)</td></tr><tr><td>4059349</td><td>г. Минск, ул. Лобанка, д. 13, корп. 1</td><td>349</td><td>2025-04-04</td><td>16:02:00</td><td>Переход на COSMOS BOX (с подключением Интернет+IPTV)</td></tr><tr><td>100115239</td><td>г. Минск, ул. Кальварийская, д. 56, корп. 1</td><td>34</td><td>2025-04-12</td><td>16:02:00</td><td>COSMOS BOX (Интернет+ЦТВ+IPTV)</td></tr><tr><td>100069490</td><td>г. Минск, Пушкина п-т, д. 33</td><td>484</td><td>2025-04-15</td><td>13:02:00</td><td>Переезд</td></tr><tr><td>100115147</td><td>г. Минск, ул. Скрипникова, д. 19</td><td>50</td><td>2025-04-15</td><td>16:02:00</td><td>Комбо (CAM/Доксис3)</td></tr><tr><td>100115515</td><td>г. Минск, ул. Тимошенко, д. 20, корп. 1</td><td>78</td><td>2025-04-16</td><td>16:02:00</td><td>COSMOS BOX (Интернет+ЦТВ+IPTV)</td></tr><tr><td>100104043</td><td>г. Минск, ул. Якубовского, д. 34</td><td>106</td><td>2025-04-19</td><td>13:02:00</td><td>Переезд</td></tr><tr><td>100086100</td><td>г. Минск, ул. Сердича, д. 14, корп. 2</td><td>50</td><td>2025-04-19</td><td>16:02:00</td><td>Переезд</td></tr><tr><td>100115943</td><td>г. Минск, Панченко ул., д. 52</td><td>88</td><td>2025-04-23</td><td>13:02:00</td><td>Установка Интернет</td></tr><tr><td>100115881</td><td>г. Минск, Притыцкого ул., д. 38</td><td>210</td><td>2025-04-23</td><td>16:02:00</td><td>COSMOS BOX (Интернет+IPTV)</td></tr><tr><td>100115937</td><td>г. Минск, Одоевского ул., д. 95</td><td>68</td><td>2025-04-24</td><td>13:02:00</td><td>COSMOS BOX (Интернет+IPTV)</td></tr><tr><td>100115969</td><td>г. Минск, Мельникайте ул., д. 16</td><td>13</td><td>2025-04-27</td><td>13:02:00</td><td>Установка Интернет</td></tr><tr><td>100116005</td><td>г. Минск, ул. Леси Украинки, д. 20</td><td>87</td><td>2025-04-27</td><td>16:02:00</td><td>COSMOS BOX (Интернет+IPTV)</td></tr></tbody>
+    </table>
+</div>
+
+<script>
+
+    function _to_excel() {
+        dts = document.getElementById('dts').value;
+        dte = document.getElementById('dte').value;
+
+        const xhr = new XMLHttpRequest();
+        xhr.open('GET', `/reports/report_install/_to_excel?dts=${dts}&dte=${dte}`, true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4) {
+                if (xhr.status === 200) {
+                    var blob = this.response;
+                    var downloadLink = window.document.createElement('a');
+                    var contentTypeHeader = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+                    downloadLink.href = window.URL.createObjectURL(new Blob([blob], { type: contentTypeHeader }));
+                    downloadLink.download = 'Отчет_по_установкам.xlsx';
+                    document.body.appendChild(downloadLink);
+                    downloadLink.click();
+                    document.body.removeChild(downloadLink);
+                } else {
+                    alert(`Ошибка: Сервер вернул ${xhr.statusText} - ${xhr.status}`);
+                }
+            }
+        };
+        xhr.onerror = function () {
+            console.error('Ошибка при отправке запроса.');
+            alert('Ошибка соединения с сервером.');
+        };
+        xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+        xhr.responseType = 'blob';
+        xhr.send();
+    }
+
+    function doit(id) {
+        var elt = document.getElementById(id);
+        var wb = XLSX.utils.book_new();
+        var ws = XLSX.utils.table_to_sheet(elt, {ignoreHiddenRows: true, skipHidden: true, display: false});
+        wb.SheetNames.push("Отчет по демонтажам");
+        wb.Sheets["Отчет по демонтажам"] = ws;
+        XLSX.writeFile(wb, 'dem_report.xlsx')
+    }
+
+
+    function MoreInfo(id){
+        
+        html=''
+        $.ajax({
+            type:'POST',
+            url: '/reports/report_install/_more_info',
+            data:{'id':id, 'dts':$('#dts').val(), 'dte':$('#dte').val()},
+            success: function(response){
+                if (response['error'].length>0){
+                    $('.error').html('')
+                    $('.error').html(response['error'])
+                    $('.errors').show()
+                    $('#more').hide()
+                }
+                if (response['res'].length>0){
+                    $('#tbody_more').html('')
+                    $('.error').html('')
+                    $('.errors').hide()
+                    for(let i=0; response['res'].length>i;i++){
+                        console.log(response['res'][i])
+                        html+='<tr><td>'+response['res'][i][0]+'<td>'+response['res'][i][1]+'<td>'+response['res'][i][2]+'<td>'+response['res'][i][3]+'<td>'+response['res'][i][4]+'<td>'+response['res'][i][5]+''
+                    }
+                    $('#tbody_more').html(html)
+                    $('#more').show()
+
+                }
+            }
+        })
+    }
+</script>
+
+                </div><!--content-->
+            </div><!--container-->
+        </div><!--middle-->
+    </div><!--wrapper-->
+    <div id="footer">
+        <span>CosmosTV © 2025</span>
+    </div>
+
+    <script type="text/javascript">
+        function open_menu() {
+            $.ajax({
+                url: '/_p',
+                dataType: 'json',
+                data: { 'path': document.location.href },
+                success: function (data) {
+                    for (i = 0; i < data.result.length - 1; i++) {
+                        $('#li_' + data.result[i]).click()
+                    }
+                }
+            })
+        }
+
+        function draw_submenu(obj) {
+            $.ajax({
+                url: '/_w',
+                dataType: 'json',
+                data: { 'selected_item': obj.attr('id') },
+                async: false,
+                success: function (data) {
+                    if (obj.siblings('ul').length == 0) {
+                        obj.parent().append(data.result)
+                    } else {
+                        obj.siblings('ul').remove()
+                    }
+                }
+            })
+        }
+    </script>
+
+
+</body>
 <style>
  h1 { 
  color: #027fd5;
