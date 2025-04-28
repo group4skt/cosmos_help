@@ -15,6 +15,7 @@
 [//]: # (- <a href="pr_2024.html" >Приказы 2024</a>)
 [//]: # (- <a href="perehod.html" >Скидки на переходы с 1 июня 2023</a>)
 -  <a href="price.html" >Прейскурант цен на услуги </a>
+-  <a href="tarifs2.html" >Тест </a>
 - <a href="chastotniy_plan.html" >Список каналов СКТ </a>
 - <a href="equ.html" >Комплектация оборудования</a>
 - <a href="pod.html" >Памятка по по оформлению документов</a>
