@@ -14,7 +14,7 @@
 [//]: # (- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/pr_02_130.pdf" target="_blank" >Приказ №01-02_130 от 14.12.2023 PDF</a>)
 [//]: # (- <a href="pr_2024.html" >Приказы 2024</a>)
 [//]: # (- <a href="perehod.html" >Скидки на переходы с 1 июня 2023</a>)
-
+[//]: # (- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/cosmos_tv.apk" >Скачать приложения cosmos_tv для андроид </a>)
 - <a href="pod.html" >Памятка по по оформлению документов</a>
 -  <a href="price.html" >Прейскурант цен на услуги </a>
 - <a href="chastotniy_plan.html" >Список каналов СКТ </a>
@@ -28,7 +28,7 @@
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
 - <a href="https://cosmos-telecom.by/files/instruction/3-1652434660-3-obshaya_instrukciya_po_nastroyke_cifrovyh_kanalov_pri_ispoljzovaniya_sa-modulya.pdf" >Настройке цифровых каналов </a>
 - <a href="https://cosmos-telecom.by/clients/documents" >Заявления для абонентов </a>
-- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/cosmos_tv.apk" >Скачать приложения cosmos_tv для андроид </a>
+
 -  <a href="test.html" >Тест </a>
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
 
