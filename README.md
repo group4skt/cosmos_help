@@ -35,9 +35,9 @@
 
 ```
 Latest Version: 1.5
-Release date: 27-04-2025
+Release date: 11-11-2025
 
-
+### ТАРИФНЫЕ ПЛАНЫ ###
 ![Image alt](https://raw.githubusercontent.com/group4skt/help.github.io/main/files/tarif_1.png)
 
 
