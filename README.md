@@ -34,9 +34,7 @@
 
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
 
-```
-Latest Version: 1.5
-Release date: 11-11-2025
+
 
 
 ## Настройка кабельного ТВ ##
@@ -152,6 +150,8 @@ Release date: 11-11-2025
 | СКТ-13    |   10.49.0.0/16       | 91.149.137.0/25 \\ [2…126]       |
 | СКТ-25    |  10.101.34.0/23      | 93.125.104.128/27                |
 | СКТ-25-metro|  10.212.0.0/16     | 185.203.153.0/24 \\ 93.125.106.0/24  |
-
+```
+Latest Version: 1.5
+Release date: 11-11-2025
 ---
 <p align="center">Made with Love ❤️</p>
