@@ -37,7 +37,7 @@ Latest Version: 1.5
 Release date: 11-11-2025
 
 
-### Настройка кабельного ТВ ###
+## Настройка кабельного ТВ ##
 для поиска каналов:
 - Частота начала: 298000 KHz
 - Конечная частота: 458000 KHz (если данный параметр имеется)
@@ -95,7 +95,7 @@ Release date: 11-11-2025
 - отмечаем выполненные работы (количество и галочка).
 
 
-### ТАРИФНЫЕ ПЛАНЫ ###
+## ТАРИФНЫЕ ПЛАНЫ ##
 ![Image alt](https://raw.githubusercontent.com/group4skt/help.github.io/main/files/tarif_1.png)
 ![Image alt](https://raw.githubusercontent.com/group4skt/help.github.io/main/files/tarif_2.png)
 ![Image alt](https://raw.githubusercontent.com/group4skt/help.github.io/main/files/tarif_3.png)
