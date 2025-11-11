@@ -19,16 +19,16 @@
 [//]: # (- <a href="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/cosmos_tv.apk" >Скачать приложения cosmos_tv для андроид </a>)
 [//]: # (-  <a href="test.html" >Тест </a>)
 -  <a href="price.html" >Прейскурант цен на услуги </a>
-- <a href="pod.html" >Памятка по по оформлению документов</a>
 - <a href="chastotniy_plan.html" >Список каналов СКТ </a>
-- <a href="equ.html" >Комплектация оборудования</a>
-- <a href="error.html" >Расшифровка ошибок САМ</a> 
-- <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
- -  <a href="sub.html" >SUB </a>
- - <a href="cable.html" > Кабель и ответвители</a>
- -  <a href="cbl5e.html" >Кабель категории UTP (витая пара)</a>
- - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
 - <a href="propiska_mac.html" >Пропись оборудования (+ к MAC)</a>
+ -  <a href="cbl5e.html" >Кабель категории UTP (витая пара)</a>
+ - <a href="cable.html" > Кабель и ответвители</a>
+ - <a href="equ.html" >Комплектация оборудования</a>
+ - <a href="opred_ser_nomer.html" >Определение оборудования по серийному номеру</a> 
+- <a href="error.html" >Расшифровка ошибок САМ</a> 
+ -  <a href="sub.html" >SUB </a>
+- <a href="pod.html" >Памятка по по оформлению документов</a>
+ - <a href="noize.html" >Инструкция по поиску и устранению помех</a>
 - <a href="https://cosmos-telecom.by/files/instruction/3-1652434660-3-obshaya_instrukciya_po_nastroyke_cifrovyh_kanalov_pri_ispoljzovaniya_sa-modulya.pdf" >Настройке цифровых каналов </a>
 - <a href="https://cosmos-telecom.by/clients/documents" >Заявления для абонентов </a>
 
