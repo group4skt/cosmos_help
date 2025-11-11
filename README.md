@@ -40,7 +40,7 @@ Release date: 27-04-2025
 
 ![Image alt](https://raw.githubusercontent.com/group4skt/help.github.io/main/files/tarif_1.png)
 
-  <img src="https://raw.githubusercontent.com/group4skt/help.github.io/main/files/p0006.jpg">
+
 
 ### Настройка кабельного ТВ ###
 для поиска каналов:
