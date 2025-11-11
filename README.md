@@ -30,13 +30,11 @@
 - <a href="https://cosmos-telecom.by/files/instruction/3-1652434660-3-obshaya_instrukciya_po_nastroyke_cifrovyh_kanalov_pri_ispoljzovaniya_sa-modulya.pdf" >Настройке цифровых каналов </a>
 - <a href="https://cosmos-telecom.by/clients/documents" >Заявления для абонентов </a>
 
-
  - [Инструкции cosmos-telecom](https://cosmos-telecom.by/faq)
 
 ```
 Latest Version: 1.5
 Release date: 11-11-2025
-
 
 
 ### Настройка кабельного ТВ ###
@@ -70,7 +68,7 @@ Release date: 11-11-2025
 -  подключение на кабель абонента
 -  подключение доп ТВ
 -  переход с 2-х контрактов на 1 (один) контракт (комбо)
-
+-  смена фамилии
 
 ### ПЕРЕЕЗД ###
   <a href="mooving.html" >Пример оформления наряд-заказа</a>
