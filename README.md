@@ -1,4 +1,6 @@
 <p align="center"><img src="https://lookimg.com/images/2023/09/25/QY5RTR.png" alt="MAS Logo" height="128"></p>
+  <link rel="shortcut icon" href="[path/to/icon.png](https://raw.githubusercontent.com/group4skt/help.github.io/main/files/icon_1.png)" />
+  
 
 [https://cosmos-telecom.by/](https://cosmos-telecom.by/)
 
