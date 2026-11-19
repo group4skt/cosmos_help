@@ -36,26 +36,26 @@
 
    ## ПРОПИСЬ ОБОРУДОВАНИЯ ##
 
-| Модемы     |  + к МАС - адресу | Примечание                   |
-|-----------|----------------------|----------------------------------|
-| Sagemcom   |    2          |        |
-| Technicolor CGA2121     |        |              |     
-| Netgear 6250, 3700    |       |                  |           
-| Cisco 3825/3828d   |        |                |
-| Cisco 3925/3928ad    |        |      |
-| Humax (Акадо)   |       |    |    
-| Technicolor TC7200 s/n 0000    |       |      |
-| Technicolor TC7200 s/n SAAP   |       |           |
-| Technicolor TC7200 s/n 0099|      |  |
-| Technicolor EPC3928AD |      |  |
-|Марщрутизаторы - ОБЯЗАТЕЛЬНО ПРОВЕРЯЕМ МАС НА СВИТЧЕ, МОЖЕТ НЕ СОВПАДАТЬ С НАКЛЕЙКОЙ |
-| Tenda  |     |  |
-| SNR |      |  |
-| Tp-Link  |      |  |
-| Tp-Link Archer |      |  |
-|ASUS |  |  |
-| Upvel|  |  |
-|D-Link | | |
+| Модемы                       |  + к МАС - адресу         | 
+|------------------------------|---------------------------|
+| Sagemcom                     |    2   |        
+| Technicolor CGA2121          |     2   |                
+| Netgear 6250, 3700           |  2     |             
+| Cisco 3825/3828d             |   3     |              
+| Cisco 3925/3928ad            |    4    |      
+| Humax (Акадо)                |    2   |      
+| Technicolor TC7200 s/n 0000  |    1   |      
+| Technicolor TC7200 s/n SAAP  |   2    |       
+| Technicolor TC7200 s/n 0099  |   2   |  
+| Technicolor EPC3928AD        |   4   |  
+|Маршрутизаторы   | ОБЯЗАТЕЛЬНО ПРОВЕРЯЕМ МАС НА СВИТЧЕ, МОЖЕТ НЕ СОВПАДАТЬ С НАКЛЕЙКОЙ |
+| Tenda           |  0   |  
+| SNR             |   0   |  
+| Tp-Link         |   1   |  
+| Tp-Link Archer  |  1    | 
+|ASUS             | 0 |  
+| Upvel           | 0 |  
+|D-Link           | 1| 
 
 
 
