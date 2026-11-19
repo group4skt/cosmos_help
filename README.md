@@ -48,8 +48,14 @@
 | Technicolor TC7200 s/n SAAP   |       |           |
 | Technicolor TC7200 s/n 0099|      |  |
 | Technicolor EPC3928AD |      |  |
-| -------|   -----------   | --------------------- |
-| Technicolor EPC3928AD |      |  |
+|Марщрутизаторы - ОБЯЗАТЕЛЬНО ПРОВЕРЯЕМ МАС НА СВИТЧЕ, МОЖЕТ НЕ СОВПАДАТЬ С НАКЛЕЙКОЙ |
+| Tenda  |     |  |
+| SNR |      |  |
+| Tp-Link  |      |  |
+| Tp-Link Archer |      |  |
+|ASUS |  |  |
+| Upvel|  |  |
+|D-Link | | |
 
 
 
